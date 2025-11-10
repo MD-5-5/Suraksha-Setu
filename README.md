@@ -39,11 +39,16 @@ A dashboard that lets you handle drop-offs quick - spot their location live as t
 
 ⚙ Tech Stack
 | Layer | Tech |
+
 | Frontend | React / React Native |
+
 | Backend | Node.js + Express |
+
 | Database | MongoDB Atlas |
+
 | Integrations | Twilio API, Google Maps |
-| Hosting | Render / Vercel / Netlify |
+
+| Hosting | Vercel |
 
 
 
