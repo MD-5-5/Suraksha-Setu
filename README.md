@@ -27,14 +27,20 @@ A dashboard that lets you handle drop-offs quick - spot their location live as t
 
 💼 Use Cases
 
-| Category | Summary |
-| 🧍 Personal Safety | Instant SOS for women, students, elderly |
-| 🏥 When health goes bad | Connects patients, those who help them, along with treatment centers |
-| 🌪 Disaster Response | Verified SOS for large-scale crises |
-| officers working | updates sent directly to authorities in real time |
-| 📱 Gadget links | Runs on wearables or smart devices |
-| 🧑‍🤝‍🧑 Community Awareness | Promotes safety collaboration |
-| Tall offices need  Alerts that help avoid danger at job or school |
+ Instant SOS for women, students, elderly
+ 
+ Connects patients, those who help them, along with treatment centers 
+ 
+ Verified SOS for large-scale crises 
+ 
+ updates sent directly to authorities in real time
+ 
+ Runs on wearables or smart devices 
+ 
+ Promotes safety collaboration 
+ 
+ Tall offices need  Alerts that help avoid danger at job or school 
+
 
 
 ⚙ Tech Stack
