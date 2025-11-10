@@ -46,4 +46,5 @@ A dashboard that lets you handle drop-offs quick - spot their location live as t
 | Hosting | Render / Vercel / Netlify |
 
 
+
 “Because safety shouldn’t depend on chance — it should depend on connection.”
